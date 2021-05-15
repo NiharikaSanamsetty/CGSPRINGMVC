@@ -1,4 +1,4 @@
-package com.dinesh;
+package com.nikki;
 
 import javax.validation.constraints.Size;
 
